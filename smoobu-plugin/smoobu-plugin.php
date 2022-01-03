@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Plugin Name: Smoobu Plugin
  * Description: Manage your real estate business and market your portfolio
@@ -10,3 +9,8 @@
  * @package Akismet
  
  */
+
+
+
+
+ ?>
