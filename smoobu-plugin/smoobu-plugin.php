@@ -8,7 +8,7 @@
  
 /*
  
-Plugin Name: Smoobu
+Plugin Name: Smoobu Plugin
  
 Plugin URI: https://cubixsol.com/
  
