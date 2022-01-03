@@ -19,7 +19,6 @@ Version: 5.1.7
 Author: Cubixsol
  
 Author URI: https://cubixsol.com
- 
 License: GPLv2 or later
  
 Text Domain: boostly
