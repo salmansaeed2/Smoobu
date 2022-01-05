@@ -7,7 +7,7 @@
  * Author URI: https://cubixsol.com
  * Text Domain: Smoobu
  * @package Akismet
- * Github plugin URI: https://github.com/salmansaeed2/Smoobu.git
+ * Github plugin URI: https://github.com/salmansaeed2/Smoobu
  
  */
 
